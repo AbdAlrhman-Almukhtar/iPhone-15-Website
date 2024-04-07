@@ -31,7 +31,7 @@ const Chip = () => {
    <section className='common-padding'>
     <div className='screen-max-width'>
         <div id='chip' className='flex-center w-full my-20'>
-            <img src={chipImg} alt="Chip" width={180} height={180}/>
+            <img src={chipImg} alt="Chip" width={181} height={180}/>
         </div>
         <div className='flex flex-col items-center '>
             <h2 className='chipTitle'>
