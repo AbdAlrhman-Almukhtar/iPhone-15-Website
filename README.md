@@ -9,3 +9,5 @@ This project aims to create a visually stunning and interactive showcase for the
 **Smooth Animations:** the website features smooth and engaging animations.
 
 **Responsive Design:** ensuring that the animations and 3D model are accessible on desktops, tablets, and smartphones.
+
+Deployed using AWS Amplify
